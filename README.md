@@ -1,3 +1,2 @@
 # desafio_tres
-# desafiotres_css
-# desafiotres_css
+Desafío 3 - Media Queries Desafío Latam
